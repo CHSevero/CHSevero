@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Henrique
 - 👀 I’m interested in softwer development.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me chsevero@outlook.com.br
 - FreeCodeCamp: https://www.freecodecamp.org/Carlos-Severo
 - LinkedIn: https://www.linkedin.com/in/chsevero/
