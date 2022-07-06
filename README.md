@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henrique
-- 👀 I’m interested in softwer development.
+- 👀 I’m interested in software development.
 - 📫 How to reach me chsevero@outlook.com.br
 - FreeCodeCamp: https://www.freecodecamp.org/Carlos-Severo
 - LinkedIn: https://www.linkedin.com/in/chsevero/
