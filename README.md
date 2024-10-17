@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henrique
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in software development.
 - 📫 How to reach me chsevero.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chsevero/
